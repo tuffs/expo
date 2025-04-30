@@ -10,6 +10,8 @@
 
 ### 💡 Others
 
+- Include tests in typecheck. Use seperate build tsconfig ([#36485](https://github.com/expo/expo/pull/36485) by [@marklawlor](https://github.com/marklawlor))
+
 ## 5.0.4 — 2025-05-01
 
 ### 🐛 Bug fixes
